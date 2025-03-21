@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My coding skills:
+![myskills](https://skillicons.dev/icons?i=java,py,mysql,kotlin,androidstudio)
+
+
+### Where to contact me:
+
+<a href = "https://www.linkedin.com/in/jesus-sanchez-caceres/" /> <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height = "50"/>
