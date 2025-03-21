@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi my name is Jesus Sanchez Caceres. I'm a senior at Lehman College studying computer science. Born in Venezuela, living in NYC since 2018.
+
 ### My coding skills:
 ![myskills](https://skillicons.dev/icons?i=java,py,mysql,kotlin,androidstudio)
 
